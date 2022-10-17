@@ -12,8 +12,7 @@ Swift Movie Trailers is an iOS interactive app developed in Swift. The app has b
 * Animations
 
 ## Tests
-
-3) Open the workspace in Xcode
+Open the workspace in Xcode
 
 ```bash
 $ open "xcworkspace"
